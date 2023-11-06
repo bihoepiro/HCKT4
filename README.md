@@ -2,4 +2,4 @@
 
 Se muestra captura del front:
 
-![imagen](./hck4.png)
+![imagen](./hck4d.png)
